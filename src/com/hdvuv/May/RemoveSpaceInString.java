@@ -40,4 +40,3 @@ public class RemoveSpaceInString {
         return input.replaceAll("\\s", "");
     }
 }
-
